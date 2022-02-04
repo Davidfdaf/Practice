@@ -1,7 +1,4 @@
 # Practice
 
-#gonna make this work
 
-
-Come on now. Learn it!
-Practicing with GitHub
+My name is David Fitzpatrick I am in my first year of my masters in financial engineering and a financial data science certificate. I worked as a data scientist at the University of Maine on a variety of data analysis and machine learning problems related to a data set of coparenting survey responses. I am also interested in financial data science problems. I have worked on projects relating to forming long-term retirement portfolios with favorable statistical characteristics or examining the evolution of assets statistical relationship with each other over time. for financial data science problems I am generally using time series data
